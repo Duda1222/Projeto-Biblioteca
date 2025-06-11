@@ -6,8 +6,7 @@
 package model;
 
 /**
- *
- * @author paulojp
+
  */
 public class Multa {
     private int id_multa;
