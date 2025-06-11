@@ -7,7 +7,7 @@ package model;
 
 /**
  *
- * @author paulojp
+
  */
 public class Emprestimo {
     
